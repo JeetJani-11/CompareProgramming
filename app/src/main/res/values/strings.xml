@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CompareProgramming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_open">Hello blank fragment</string>
+    <string name="nav_close">Hello blank fragment</string>
+    <string name="calender">Calender</string>
+    <string name="clock">Clock</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="friends">Friends</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="Email">Email</string>
+    <string name="password_">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="codeforces_id">CodeForces ID</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_">Login</string>
+    <string name="sign_up_">Sign Up</string>
+</resources>
